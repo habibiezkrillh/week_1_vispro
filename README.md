@@ -22,3 +22,15 @@ Deskripsi Proyek: Aplikasi Dart berbasis terminal yang memungkinkan user untuk:
    ```
 
 ## Contoh Output
+```dart
+Masukkan Angka: 
+10
+Angka yang di-generate: [34, 87, 23, 9, 54, 22, 99, 12, 45, 11]
+Pilih metode: 
+1. Bubble Sort
+2. Inversi
+3. Shuffle
+1
+Hasil Bubble Sort: [9, 11, 12, 22, 23, 34, 45, 54, 87, 99]
+Waktu Eksekusi: 450microseconds
+```
