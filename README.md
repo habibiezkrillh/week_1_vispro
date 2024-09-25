@@ -17,4 +17,8 @@ Deskripsi Proyek: Aplikasi Dart berbasis terminal yang memungkinkan user untuk:
 1. Pastikan sudah terinstall Dart SDK di Laptop/PC kalian.
 2. Lalu simpan file `main.dart`,`bubble_sort.dart`,`inversion.dart`, dan `shuffle.dart` dalam satu folder
 3. Jalankan program di terminal dengan perintah:
-   ``dart ./tempat file kalian/main.dart``
+   ```bash
+   dart run ./tempatfilekalian/main.dart
+   ```
+
+## Contoh Output
