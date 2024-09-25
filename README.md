@@ -9,3 +9,6 @@ Deskripsi Proyek: Aplikasi Dart berbasis terminal yang memungkinkan user untuk:
 
 ## Struktur Proyek
 - `main.dart` : File utama yang fungsi nya untuk menerima input dari user dan mengeksekusi metode yang user pilih
+- `bubble_sort.dart` : Fungsi untuk mengurutkan list dengan menggunakan metode Bubble Sort
+- `inversion.dart` : Fungsi untuk membalik elemen-elemen dalam list (inversi)
+- `shuffle.dart` : Fungsi untuk mengacak elemen-elemen dalam list
