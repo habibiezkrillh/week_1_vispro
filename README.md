@@ -12,3 +12,9 @@ Deskripsi Proyek: Aplikasi Dart berbasis terminal yang memungkinkan user untuk:
 - `bubble_sort.dart` : Fungsi untuk mengurutkan list dengan menggunakan metode Bubble Sort
 - `inversion.dart` : Fungsi untuk membalik elemen-elemen dalam list (inversi)
 - `shuffle.dart` : Fungsi untuk mengacak elemen-elemen dalam list
+
+## Cara Run Program
+1. Pastikan sudah terinstall Dart SDK di Laptop/PC kalian.
+2. Lalu simpan file `main.dart`,`bubble_sort.dart`,`inversion.dart`, dan `shuffle.dart` dalam satu folder
+3. Jalankan program di terminal dengan perintah berikut:
+   ```dart run ./tempat file kalian/main.dart```
