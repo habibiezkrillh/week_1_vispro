@@ -1,5 +1,11 @@
 # Week 1 - Visual Programming
-## Deskripsi Proyek
+Deskripsi Proyek: Aplikasi Dart berbasis terminal yang memungkinkan user untuk:
+1. Menggenerate angka acak (random)
+2. User memilih metode operasi untuk diterapkan pada angka-angka tersebut seperti:
+   - Bubble Sort : Untuk mengurutkan angka
+   - Inversi/Inversion: Untuk membalik urutan angka dalam list
+   - Shuffle : Untuk mengacak urutan angka dalam list
+3. Menghitung dan menampilkan waktu eksekusi operasi yang user pilih.
 
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+## Struktur Proyek
+- 
