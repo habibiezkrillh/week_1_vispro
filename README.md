@@ -8,4 +8,4 @@ Deskripsi Proyek: Aplikasi Dart berbasis terminal yang memungkinkan user untuk:
 3. Menghitung dan menampilkan waktu eksekusi operasi yang user pilih.
 
 ## Struktur Proyek
-- 
+- `main.dart` : File utama yang fungsi nya untuk menerima input dari user dan mengeksekusi metode yang user pilih
