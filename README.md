@@ -18,7 +18,7 @@ Deskripsi Proyek: Aplikasi Dart berbasis terminal yang memungkinkan user untuk:
 2. Lalu simpan file `main.dart`,`bubble_sort.dart`,`inversion.dart`, dan `shuffle.dart` dalam satu folder
 3. Jalankan program di terminal dengan perintah:
    ```bash
-   dart run ./tempatfilekalian/main.dart
+   dart run ./bin/main.dart
    ```
 
 ## Contoh Output
